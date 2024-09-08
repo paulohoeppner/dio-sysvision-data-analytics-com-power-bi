@@ -45,14 +45,14 @@ Esse repositório corresponde aos projetos do Coding The Future Sysvision - Data
 
 ## Projetos
 
-1. Analisando dados de um Dashboard de Vendas no Power BI;
-2. Criando Um Relatório Gerencial de Vendas com Power BI;
-3. Criando um Dashboard corporativo com integração com MySQL e Azure;
-4. Dashboard de Vendas com Power BI utilizando Star Schema;
-5. Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX;
-6. Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI;
-7. Criando um Relatório Vendas e Lucros com Data Analytics com Power BI;
-8. Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI.
+1. [Analisando dados de um Dashboard de Vendas no Power BI](https://github.com/paulohoeppner/dio-sysvision-data-analytics-com-power-bi/tree/main/01-analisando-dados-dashboard-vendas-power-bi);
+2. [Criando Um Relatório Gerencial de Vendas com Power BI](https://github.com/paulohoeppner/dio-sysvision-data-analytics-com-power-bi/tree/main/02-criando-relatorio-gerencial-vendas-power-bi);
+3. [Criando um Dashboard corporativo com integração com MySQL e Azure](https://github.com/paulohoeppner/dio-sysvision-data-analytics-com-power-bi/tree/main/03-criando-dashboard-corporativo-integracao-mysql-azure);
+4. [Dashboard de Vendas com Power BI utilizando Star Schema](https://github.com/paulohoeppner/dio-sysvision-data-analytics-com-power-bi/tree/main/04-dashboard-vendas-power-bi-star-schema);
+5. [Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX](https://github.com/paulohoeppner/dio-sysvision-data-analytics-com-power-bi/tree/main/05-modelando-dashboard-ecommerce-power-bi-formulas-dax);
+6. [Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI](https://github.com/paulohoeppner/dio-sysvision-data-analytics-com-power-bi/tree/main/06-criando-dashboard-gerencial-tomada-decisoes-power-bi);
+7. [Criando um Relatório Vendas e Lucros com Data Analytics com Power BI](https://github.com/paulohoeppner/dio-sysvision-data-analytics-com-power-bi/tree/main/07-criando-relatorio-vendas-lucros-data-analytics-power-bi);
+8. [Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI](https://github.com/paulohoeppner/dio-sysvision-data-analytics-com-power-bi/tree/main/08-criando-relatorios-dinamicos-uso-parametros-power-bi).
 
 ## Agradecimentos
 Gostaria de agradecer a [Sysvision](https://www.sysvision.global/) e a [DIO - Digital Innovation One](https://www.dio.me/) pela oportunidade e a instrutora [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/) por compartilhar seu conhecimento.
