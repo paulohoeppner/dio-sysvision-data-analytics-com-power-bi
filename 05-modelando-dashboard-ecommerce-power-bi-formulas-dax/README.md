@@ -76,7 +76,7 @@ Continuar o evoluindo no estudo com Power BI para futuros projetos e aplicaçõe
 ## Tecnologias Utilizadas
 
 <div align=left>
-    <img align=center src="assets/images/power-Bi.png" alt="Power Bi" width="" height="60" hspace="5"/>
+    <img align=center src="assets/images/power-bi.png" alt="Power Bi" width="" height="60" hspace="5"/>
 </div>
 
 ## Cursos Envolvidos
